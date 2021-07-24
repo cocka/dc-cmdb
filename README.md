@@ -1,2 +1,2 @@
-# dc-cmdb
-Part of the project that deals with the CMDB
+# dc-project
+Project that deals with automatic personal deploys
